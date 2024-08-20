@@ -280,7 +280,7 @@ WHERE
 ```
 
 ### Output
-![Data type check](assets/images/3_data_type_check.png)
+![Data type check](assets/images/column count.png)
 
 
 ## Duplicate count check
