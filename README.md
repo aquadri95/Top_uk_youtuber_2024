@@ -594,7 +594,7 @@ ORDER BY
 
 #### Output
 
-![Most subsc](assets/images/youtubers_with_the_most_subs 1.png.png)
+![Most subsc](assets/images/youtubers_with_the_most_subs 1.png)
 
 
 
