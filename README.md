@@ -70,7 +70,7 @@ We need data on the top UK YouTubers in 2024 that includes their
 
 - total videos uploaded
 
-- Where is the data coming from? The data is sourced from Kaggle (an Excel extract),
+- Where is the data coming from? The data is sourced from Kaggle (assets/dataset/youtube_data_united-kingdom.csv),
 
 This is my portfolio website
 
