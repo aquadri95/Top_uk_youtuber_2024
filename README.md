@@ -27,12 +27,12 @@
   - [Results](#Results)
   - [DAX Measures](#DAX-Measures)
 - [Analysis](#Analysis)
-  -[Findings](#Findings)
-  -[Validation](#Validation)
-  -[Discovery](#Discovery)
+  - [Findings](#Findings)
+  - [Validation](#Validation)
+  - [Discovery](#Discovery)
 - [Recommendations](#Recommendations)
-  - [Potential ROI](#Potential ROI)
-  - [Potential Courses of Actions](#Potential Courses of Actions)
+  - [Potential ROI](#Potential-ROI)
+  - [Potential Courses of Actions](#Potential-Courses-of-Actions)
 - [Conclusion](#conclusion)
 
 
