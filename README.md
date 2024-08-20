@@ -1,6 +1,6 @@
 # Data Portfolio: Excel => SQL=> Power BI
 
-
+![excel-to-powerbi-animated-diagram](assets/images/kaggle_to_powerbi.gif)
 
 # Table of Content
 
@@ -104,7 +104,7 @@ Some of the data visuals that may be appropriate in answering our questions incl
 3. Scorecards
 4. Horizontal bar chart
 
-![Dashboard-Mockup](assets/images/MOCKUPAI.png)
+![Dashboard-Mockup](assets/mockpai.png)
 
 
 ## Tools 
