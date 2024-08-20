@@ -594,7 +594,7 @@ ORDER BY
 
 #### Output
 
-![Most subsc](assets/images/youtubers_with_the_most_subs_1.png)
+![Most subsc](assets/images/youtubers_with_the_most_subs2.png)
 
 ### 2. Youtubers with the most videos uploaded
 
@@ -684,7 +684,8 @@ ORDER BY
 
 #### Output
 
-![Most videos](assets/images/youtubers_with_the_most_subs2.png)
+![Most videos](assets/images/youtubers_with_the_most_videos.png)
+
 
 
 
