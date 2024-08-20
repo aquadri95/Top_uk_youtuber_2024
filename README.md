@@ -10,9 +10,9 @@
 #Table of Content
 
 - [Objective](#objective).
-- [Data Source](#Data Source)
-- [Stages}(#Stages)
-- [Design}(#Design)
+- [Data Source](#Data-Source)
+- [Stages](#Stages)
+- [Design](#Design)
   - [Mockup](#Mockup)
   - [Tools](#Tools)
 - [Development](#Development)
