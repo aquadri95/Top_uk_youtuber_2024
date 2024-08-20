@@ -1,10 +1,5 @@
 # Data Portfolio: Excel => SQL=> Power BI
 
-# Header
-
-## Subheader (smaller header)
-
-###### smallest header
 
 
 #Table of Content
@@ -46,5 +41,9 @@ Header
 
 
 SubHeader
+# Header
 
+## Subheader (smaller header)
+
+###### smallest header
 
