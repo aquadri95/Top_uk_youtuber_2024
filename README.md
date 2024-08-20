@@ -20,20 +20,20 @@
   - [Data Exploration](#Data-Exploration)
   - [Data Cleaning](#Data-Cleaning)
   - [Transform the Data](#Trandfrom-the-Data)
-  - Create the SQL View
--Testing
-  -Data Quality Tests
--[Visualization
-  -[Results
-  -[DAX Measures
--[Analysis
-  -[Findings
-  -[Validation
-  -[Discovery
-- [Recommendations](#Recommendations).
-  - [Potential ROI](#Potential ROI).
-  - [Potential Courses of Actions](#Potential Courses of Actions).
-- [Conclusion](#conclusion).
+  - [Create the SQL View](#Create-the-SQL-View)
+- [Testing](#Testing)
+  -[Data Quality Tests](#Data-Quality-Tests)
+- [Visualization](#Vizualization)
+  -[Results](#Results)
+  -[DAX Measures](#DAX-Measures)
+- [Analysis](#Analysis)
+  -[Findings](#Findings)
+  -[Validation](#Validation)
+  -[Discovery](#Discovery)
+- [Recommendations](#Recommendations)
+  - [Potential ROI](#Potential ROI)
+  - [Potential Courses of Actions](#Potential Courses of Actions)
+- [Conclusion](#conclusion)
 
 
 This is my portfolio website
