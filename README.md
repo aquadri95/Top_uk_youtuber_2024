@@ -279,6 +279,74 @@ WHERE
     TABLE_NAME = 'view_uk_youtubers_2024'
 ```
 
+### Output
+![Data type check](assets/images/3_data_type_check.png)
+
+
+## Duplicate count check
+### SQL query 
+```sql
+/*
+# 1. Check for duplicate rows in the view
+# 2. Group by the channel name
+# 3. Filter for groups with more than one row
+*/
+
+-- 1.
+SELECT
+    channel_name,
+    COUNT(*) AS duplicate_count
+FROM
+    view_uk_youtubers_2024
+
+-- 2.
+GROUP BY
+    channel_name
+
+-- 3.
+HAVING
+    COUNT(*) > 1;
+```
+### Output
+![Duplicate count check](assets/images/4_duplicate_records_check.png)
+
+# Visualization 
+
+
+## Results
+
+- What does the dashboard look like?
+
+![GIF of Power BI Dashboard](assets/images/top_uk_youtubers_2024.gif)
+
+This shows the Top UK Youtubers in 2024 so far. 
+
+
+## DAX Measures
+
+### 1. Total Subscribers (M)
+```sql
+Total Subscribers (M) = 
+VAR million = 1000000
+VAR sumOfSubscribers = SUM(view_uk_youtubers_2024[total_subscribers])
+VAR totalSubscribers = DIVIDE(sumOfSubscribers,million)
+
+RETURN totalSubscribers
+
+```
+
+### 2. Total Views (B)
+```sql
+Total Views (B) = 
+VAR billion = 1000000000
+VAR sumOfTotalViews = SUM(view_uk_youtubers_2024[total_views])
+VAR totalViews = ROUND(sumOfTotalViews / billion, 2)
+
+RETURN totalViews
+
+```
+
+
 
 This is my portfolio website
 
