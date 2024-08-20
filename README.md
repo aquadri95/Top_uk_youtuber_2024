@@ -70,7 +70,7 @@ We need data on the top UK YouTubers in 2024 that includes their
 
 - total videos uploaded
 
-- Where is the data coming from? The data is sourced from Kaggle ![Dataset](assets/dataset/youtube_data_united-kingdom.csv)
+- Where is the data coming from? The data is sourced from Kaggle [see here to find it.](https://www.kaggle.com/datasets/bhavyadhingra00020/top-100-social-media-influencers-2024-countrywise?resource=download)
 
 
 # Stages
