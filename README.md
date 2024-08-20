@@ -834,28 +834,3 @@ We'll have conversations with the marketing client to forecast what they also ex
 4. Review how the campaigns have gone, gather insights and optimize based on feedback from converted customers and each channel's audiences 
 
 
-
-
-
-
-
-
-
-
-This is my portfolio website
-
-
-
-image
-![Random-name](assets/image/
-Header
-
-
-
-SubHeader
-# Header
-
-## Subheader (smaller header)
-
-###### smallest header
-
