@@ -104,7 +104,7 @@ Some of the data visuals that may be appropriate in answering our questions incl
 3. Scorecards
 4. Horizontal bar chart
 
-![Mockupai](assets/images/MOCKUPAI.png)
+![Dashboard-Mockup](assets/images/MOCKUPAI.png)
 
 
 This is my portfolio website
