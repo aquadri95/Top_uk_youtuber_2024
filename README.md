@@ -9,8 +9,8 @@
 
 #Table of Content
 
-- [Objective].(#objective).
--[Data Source
+- [Objective](#objective).
+- [Data Source](#Data Source)
 -[Stages
 -[Design
   -[Mockup
@@ -30,10 +30,10 @@
   -[Findings
   -[Validation
   -[Discovery
-- [Recommendations].(#Recommendations).
-  - [Potential ROI].(#Potential ROI).
-  - [Potential Courses of Actions].(#Potential Courses of Actions).
-- [Conclusion].(#conclusion).
+- [Recommendations](#Recommendations).
+  - [Potential ROI](#Potential ROI).
+  - [Potential Courses of Actions](#Potential Courses of Actions).
+- [Conclusion](#conclusion).
 
 
 This is my portfolio website
